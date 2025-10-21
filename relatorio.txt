@@ -1,0 +1,3 @@
+Lucas Lima de Menezes
+
+Na aula de hoje vimos como funciona o git e suas funcionalidades como git add, git commit, git init, e etc. No git vc nao precisa so subir codigos vc pode tbm subir pdf, documentos, base de dados, e tbm aprendemos como vc cria uma conta no git hub.
